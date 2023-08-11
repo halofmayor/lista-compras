@@ -22,8 +22,7 @@ h2 {
     justify-content: center;
 }
 
-.todo-input-grid,
-.todo-grid{
+.todo-input-grid{
     margin-bottom: 10px;
     align-items: stretch;
 }
@@ -50,5 +49,4 @@ h2 {
     cursor: pointer;
     padding-top:10px;
     padding-bottom:10px;
-    align-text:center;
 }
