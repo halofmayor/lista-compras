@@ -22,7 +22,8 @@ h2 {
     justify-content: center;
 }
 
-.todo-input-grid {
+.todo-input-grid,
+todo-grid{
     margin-bottom: 10px;
     align-items: stretch;
 }
